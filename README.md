@@ -1,5 +1,5 @@
 # OSINT-Tools-Azerbaijan
-<img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/1600px-Flag_of_Azerbaijan.svg.png](https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg)" alt="Azerbaijan"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg" alt="Azerbaijan"/>
 A list of OSINT resources and tools that may be useful to you when conducting investigations related to the Republic of Azerbaijan. Most of resources and tools has versions in Azerbaijan, English and Russian but Eng and Ru could be incomplete.
 
 ## Contributions
